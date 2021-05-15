@@ -1,13 +1,13 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jay</h1>
 <h3 align="center">I'm a passionate Python Developer from India.</h3>
 ## :man-raising-hand: About Me
-- :telescope: I'm currently working on python project
-- :seedling: I'm currently learning **Secuity Reserch, Data Science And Business Analytics.**
-- :dancers: I'm looking to collaborate on **OpenSource Projects**
+- :telescope: I’m currently working on python project
+- :seedling: I’m currently learning **Secuity Reserch, Data Science And Business Analytics.**
+- :dancers: I’m looking to collaborate on **OpenSource Projects**
 - :male-technologist: All of my projects are available at **[My Portfolio](https://jaykakadiya18.github.io/)**
 - :mailbox: How to reach me **jaykakadiya2014@gmail.com**
 - :zap: Fun fact **I play games and go to the GYM very often.**
-## rocket: Languages
+## :rocket: Languages
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
