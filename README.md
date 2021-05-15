@@ -48,9 +48,10 @@
 
 </p>
 
+## Badge
 <p align="left">
 <a href="https://www.credly.com/badges/35228dbc-4cde-477b-abd6-7ec65dc1f1f6/public_url" title="Cyber Security Foundation Professional Certificate"><img src="https://images.credly.com/size/110x110/images/8a0fb550-4d51-41d0-be50-6c1f54526539/Cybersecurity-Foundation-Professional-Certificate-CSFPC.png" height="150px" width="150px" alt="Cyber Security Foundation Professional Certificate"></img></a>
-</p>
-<p>
 <a href="https://www.credly.com/badges/c4f74473-bac8-40e3-b0fe-8ad845243f1c/public_url" title="Python for Data Science"><img src="https://images.credly.com/size/110x110/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png" height="150px" width="150px" alt="Python for Data Science"></img></a>
+<a href="https://hackerone.com/ninja404" title="Bounty Hunter"><img src="https://hackerone.com/assets/users/badges/bounty_bronze-696adafd58ed277f06bd40feaddbf8fb50d878c8fdb69075a207adc24bcdb26a.png" height="150px" width="150px" alt="Bounty Hunter"></img></a>
+<a href="https://hackerone.com/ninja404" title="Insecticide"><img src="https://hackerone.com/assets/users/badges/resolved_bronze-4896f14ae5bc2db5c7ddf332c27f20ac48e6d6ce7f85638a604a19651dc66e9d.png" height="150px" width="150px" alt="Insecticide"></img></a>
 </p>
