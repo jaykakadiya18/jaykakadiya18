@@ -47,4 +47,10 @@
 <a href = "https://www.instagram.com/iamjaykakadiya/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="35228dbc-4cde-477b-abd6-7ec65dc1f1f6" data-share-badge-host="https://www.credly.com"></div>
+
+<p align="left">
+<a href="https://www.credly.com/badges/35228dbc-4cde-477b-abd6-7ec65dc1f1f6/public_url" title="Cyber Security Foundation Professional Certificate"><img src="https://images.credly.com/images/8a0fb550-4d51-41d0-be50-6c1f54526539/Cybersecurity-Foundation-Professional-Certificate-CSFPC.png" alt="Cyber Security Foundation Professional Certificate"></img></a>
+</p>
+<p align="left">
+<a href="https://www.credly.com/badges/35228dbc-4cde-477b-abd6-7ec65dc1f1f6/public_url" title="Cyber Security Foundation Professional Certificate"><img src="https://images.credly.com/images/8a0fb550-4d51-41d0-be50-6c1f54526539/Cybersecurity-Foundation-Professional-Certificate-CSFPC.png" alt="Cyber Security Foundation Professional Certificate"></img></a>
+</p>
