@@ -49,7 +49,7 @@
 </p>
 
 <p align="left">
-<a href="https://www.credly.com/badges/35228dbc-4cde-477b-abd6-7ec65dc1f1f6/public_url" title="Cyber Security Foundation Professional Certificate"><img src="https://images.credly.com/images/8a0fb550-4d51-41d0-be50-6c1f54526539/Cybersecurity-Foundation-Professional-Certificate-CSFPC.png" alt="Cyber Security Foundation Professional Certificate"></img></a>
+<a href="https://www.credly.com/badges/35228dbc-4cde-477b-abd6-7ec65dc1f1f6/public_url" title="Cyber Security Foundation Professional Certificate"><img src="https://images.credly.com/size/110x110/images/8a0fb550-4d51-41d0-be50-6c1f54526539/Cybersecurity-Foundation-Professional-Certificate-CSFPC.png" alt="Cyber Security Foundation Professional Certificate"></img></a>
 </p>
 <p align="left">
 <a href="https://www.credly.com/badges/35228dbc-4cde-477b-abd6-7ec65dc1f1f6/public_url" title="Cyber Security Foundation Professional Certificate"><img src="https://images.credly.com/images/8a0fb550-4d51-41d0-be50-6c1f54526539/Cybersecurity-Foundation-Professional-Certificate-CSFPC.png" alt="Cyber Security Foundation Professional Certificate"></img></a>
