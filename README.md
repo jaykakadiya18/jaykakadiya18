@@ -47,4 +47,4 @@
 <a href = "https://www.instagram.com/iamjaykakadiya/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="35228dbc-4cde-477b-abd6-7ec65dc1f1f6" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="35228dbc-4cde-477b-abd6-7ec65dc1f1f6" data-share-badge-host="https://www.credly.com"></div>
