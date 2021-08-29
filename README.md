@@ -55,3 +55,7 @@
 <a href="https://hackerone.com/ninja404" title="Bounty Hunter"><img src="https://hackerone.com/assets/users/badges/bounty_bronze-696adafd58ed277f06bd40feaddbf8fb50d878c8fdb69075a207adc24bcdb26a.png" height="150px" width="150px" alt="Bounty Hunter"></img></a>
 <a href="https://hackerone.com/ninja404" title="Insecticide"><img src="https://hackerone.com/assets/users/badges/resolved_bronze-4896f14ae5bc2db5c7ddf332c27f20ac48e6d6ce7f85638a604a19651dc66e9d.png" height="150px" width="150px" alt="Insecticide"></img></a>
 </p>
+
+<p align="left">
+    <a href="https://www.buymeacoffee.com/jaykakadiya" target="_blank">Buy me a Coffee </a>
+</p>
