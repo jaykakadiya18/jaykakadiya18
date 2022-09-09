@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on python project
 
-- 🌱 I’m currently learning **Secuity Research, Data Engineering**
+- 🌱 I’m currently learning **Big data with Cloud,Data Engineering**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
