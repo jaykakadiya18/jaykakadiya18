@@ -47,12 +47,12 @@
 
 ### 🤖 **AI & Modern Tools**
 <p align="left">
-  <a href="https://huggingface.co/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/hugging-face.png" width="48"/></a>
-  <a href="https://www.pytorch.org/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/pytorch.png" width="48"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/tensorflow.png" width="48"/></a>
-  <a href="https://www.langchain.com/" target="_blank"><img src="https://raw.githubusercontent.com/langchain-ai/logo/main/langchain-logo.svg" width="48"/></a>
-  <a href="https://www.cursor.com/" target="_blank"><img src="https://raw.githubusercontent.com/cursorless/cursorless/main/assets/cursorless-icon.svg" width="48"/></a>
-  <a href="https://openai.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/openai.png" width="48"/></a>
+  <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48"/></a>
+  <a href="https://www.pytorch.org/" target="_blank"><img src="https://pytorch.org/wp-content/uploads/2024/10/logo.svg" width="48"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.gstatic.com/devrel-devsite/prod/vbbbf67a54a0fa61d452a62d016ca62f820d4cb99ab70cea0bd30d469bb65aaf5/tensorflow/images/lockup.svg" width="48"/></a>
+  <a href="https://www.langchain.com/" target="_blank"><img src="https://brandlogos.net/wp-content/uploads/2025/03/langchain-logo_brandlogos.net_9zgaw.png" width="48"/></a>
+  <a href="https://www.cursor.com/" target="_blank"><img src="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/cursor-ai-logo.png" width="48"/></a>
+  <a href="https://openai.com/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/free-openai-icon-svg-download-png-6138535.png?f=webp&w=512" width="48"/></a>
 </p>
 
 ---
