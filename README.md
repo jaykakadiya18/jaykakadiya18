@@ -1,61 +1,91 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jay</h1>
-<h3 align="center">I'm a passionate Python Developer from India.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jay Kakadiya</h1>
+<h3 align="center">🚀 Senior Python & Data Engineering Professional | FastAPI | AWS | AI Enthusiast</h3>
 
+---
 
-## 🙋‍♂️ About Me
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on python project
+- 💼 With **5+ years of experience** in **Python, FastAPI, Data Engineering, AWS, and AI**, I specialize in building **scalable data-driven applications** and **high-performance APIs**.  
+- ⚙️ I design, automate, and optimize backend systems, from **ETL pipelines** to **cloud-based APIs**, ensuring efficiency and reliability.  
+- ☁️ Experienced in **AWS Cloud Services (Lambda, S3, EC2, RDS)** and containerization using **Docker** for seamless deployments.  
+- 🤝 I’m passionate about **collaborating on open-source projects** and mentoring developers in Python and data system design.  
+- 📈 My goal is to bridge the gap between **software engineering and data intelligence** to create real-world impact.  
+- 🌐 Check out my portfolio: **[jaykakadiya18.github.io](https://jaykakadiya18.github.io/)**  
+- 📫 Reach me at: **jaykakadiya2014@gmail.com**  
+- ⚡ Fun fact: When I’m not coding, I’m probably in the gym or exploring AI tools.
 
-- 🌱 I’m currently learning **Big data with Cloud,Data Engineering**
+---
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+## 🧠 Tech Expertise
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://jaykakadiya18.github.io/)**
-
-- 📫 How to reach me **jaykakadiya2014@gmail.com**
-
-- ⚡ Fun fact **I play games and go to the GYM very often.**
-
-## 🚀 Languages 
-
+### 🐍 **Languages & Frameworks**
 <p align="left"> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.w3schools.com/cpp" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png"/> </a>
-</p>
-<br/>
-
-## 🚀 Tools
-
-<p align="left">
-    <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/pycharm.png"/> </a>
-    <a href="https://www.sublimetext.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/sublime-text.png"/> </a>
-    <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio.png"/> </a>
-    <a href="https://www.linux.org/pages/download/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/linux.png"/> </a>
-</p>    
-<br/>
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/jaykakadiya17/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/iamjaykakadiya"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/iamjaykakadiya/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
+  <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="48"/></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
 </p>
 
-## Badge
+### 🗄️ **Databases & Data Tools**
 <p align="left">
-<a href="https://www.credly.com/badges/35228dbc-4cde-477b-abd6-7ec65dc1f1f6/public_url" title="Cyber Security Foundation Professional Certificate"><img src="https://images.credly.com/size/110x110/images/8a0fb550-4d51-41d0-be50-6c1f54526539/Cybersecurity-Foundation-Professional-Certificate-CSFPC.png" height="150px" width="150px" alt="Cyber Security Foundation Professional Certificate"></img></a>
-<a href="https://www.credly.com/badges/c4f74473-bac8-40e3-b0fe-8ad845243f1c/public_url" title="Python for Data Science"><img src="https://images.credly.com/size/110x110/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png" height="150px" width="150px" alt="Python for Data Science"></img></a>
-<a href="https://hackerone.com/ninja404" title="Bounty Hunter"><img src="https://hackerone.com/assets/users/badges/bounty_bronze-696adafd58ed277f06bd40feaddbf8fb50d878c8fdb69075a207adc24bcdb26a.png" height="150px" width="150px" alt="Bounty Hunter"></img></a>
-<a href="https://hackerone.com/ninja404" title="Insecticide"><img src="https://hackerone.com/assets/users/badges/resolved_bronze-4896f14ae5bc2db5c7ddf332c27f20ac48e6d6ce7f85638a604a19651dc66e9d.png" height="150px" width="150px" alt="Insecticide"></img></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/pandas.png"/></a>
+  <a href="https://spark.apache.org/" target="_blank"><img src="https://img.icons8.com/ios/50/000000/apache-spark.png"/></a>
 </p>
 
+### ☁️ **Cloud & DevOps**
 <p align="left">
-    <a href="https://www.buymeacoffee.com/jaykakadiya" target="_blank">Buy me a Coffee </a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/linux.png"/></a>
 </p>
+
+---
+
+## 🧰 Tools & IDEs
+<p align="left">
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://img.icons8.com/color/50/000000/pycharm.png"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://img.icons8.com/dusk/64/000000/postman-api.png"/></a>
+  <a href="https://www.sublimetext.com/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/sublime-text.png"/></a>
+</p>
+
+---
+
+## 🏆 Certifications & Badges
+
+<p align="left">
+  <a href="https://www.credly.com/badges/35228dbc-4cde-477b-abd6-7ec65dc1f1f6/public_url" title="Cyber Security Foundation Professional Certificate"><img src="https://images.credly.com/size/110x110/images/8a0fb550-4d51-41d0-be50-6c1f54526539/Cybersecurity-Foundation-Professional-Certificate-CSFPC.png" height="120px"></a>
+  <a href="https://www.credly.com/badges/c4f74473-bac8-40e3-b0fe-8ad845243f1c/public_url" title="Python for Data Science"><img src="https://images.credly.com/size/110x110/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png" height="120px"></a>
+  <a href="https://hackerone.com/ninja404" title="Bounty Hunter"><img src="https://hackerone.com/assets/users/badges/bounty_bronze-696adafd58ed277f06bd40feaddbf8fb50d878c8fdb69075a207adc24bcdb26a.png" height="120px"></a>
+  <a href="https://hackerone.com/ninja404" title="Insecticide"><img src="https://hackerone.com/assets/users/badges/resolved_bronze-4896f14ae5bc2db5c7ddf332c27f20ac48e6d6ce7f85638a604a19651dc66e9d.png" height="120px"></a>
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jaykakadiya17/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href="https://twitter.com/iamjaykakadiya" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+  <a href="https://www.instagram.com/iamjaykakadiya/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+</p>
+
+---
+
+## ☕ Support
+
+<p align="left">
+  <a href="https://www.buymeacoffee.com/jaykakadiya" target="_blank">
+    <img src="https://img.shields.io/badge/☕-Buy_me_a_coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
+  </a>
+</p>
+
+---
+⭐️ **_“Building scalable systems, one Python script at a time.”_**
