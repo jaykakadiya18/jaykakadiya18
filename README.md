@@ -11,7 +11,6 @@
 - 🤝 I’m passionate about **collaborating on open-source projects** and mentoring developers in Python and data system design.  
 - 📈 My goal is to bridge the gap between **software engineering and data intelligence** to create real-world impact.  
 - 🌐 Check out my portfolio: **[jaykakadiya18.github.io](https://jaykakadiya18.github.io/)**  
-- 📫 Reach me at: **jaykakadiya2014@gmail.com**  
 - ⚡ Fun fact: When I’m not coding, I’m probably in the gym or exploring AI tools.
 
 ---
@@ -37,13 +36,23 @@
   <a href="https://spark.apache.org/" target="_blank"><img src="https://img.icons8.com/ios/50/000000/apache-spark.png"/></a>
 </p>
 
-### ☁️ **Cloud & DevOps**
+### ☁️ **Cloud, DevOps & MLOps**
 <p align="left">
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
   <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/linux.png"/></a>
+  <a href="https://wandb.ai/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/weights-and-biases.png" width="48"/></a>
+</p>
+
+### 🤖 **AI & Modern Tools**
+<p align="left">
+  <a href="https://huggingface.co/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/hugging-face.png" width="48"/></a>
+  <a href="https://www.pytorch.org/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/pytorch.png" width="48"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/tensorflow.png" width="48"/></a>
+  <a href="https://www.langchain.com/" target="_blank"><img src="https://raw.githubusercontent.com/langchain-ai/logo/main/langchain-logo.svg" width="48"/></a>
+  <a href="https://www.cursor.com/" target="_blank"><img src="https://raw.githubusercontent.com/cursorless/cursorless/main/assets/cursorless-icon.svg" width="48"/></a>
+  <a href="https://openai.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/openai.png" width="48"/></a>
 </p>
 
 ---
